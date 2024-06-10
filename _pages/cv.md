@@ -7,58 +7,46 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Aug 2016 - May 2021, Ph.D. in Computer Engineering, University of Tennessee, Knoxville
+  * Supervisor: [Prof. Stella Sun](https://web.eecs.utk.edu/~jysun/)
+* Sep 2012 - Jul 2016, B.S. in Communication Engineering, University of Electronic Science and Technology of China (UESTC)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+======
+* Aug 2021- Present, Security Researcher, [Palo Alto Networks Inc.](https://www.paloaltonetworks.com/)
+  * Work in the network content [App-ID](https://www.paloaltonetworks.com/technologies/app-id) team and conduct research on next-generation firewall products.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2016 - May 2021, Research Assistant, [University of Tennessee, Knoxville](https://www.utk.edu/)
+  * Conducted research on adversarial machine learning, network security, and cyber-physical systems security.
 
-Publications
+* May 2019 - Aug 2019, Research Intern, [VeriSign Inc.](https://www.verisign.com/)
+  * Conduct research on Domain Name System (DNS) security and privacy.
+
+Service
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **TPC Member**
+  * 2024: IEEE SmartGridComm, IEEE ICCC, IEEE ICC
+  * 2023: IEEE ICC
+  * 2022: IEEE ICC, IEEE SmartGridComm 
+  * 2021: INFOCOM MobiSec
+
+* **Conference Reviewer**
+  * 2024: IEEE SmartGridComm, IEEE ICCC, IEEE ICC
+  * 2023: IEEE ICC
+  * 2022: IEEE INFOCOM, IEEE SmartGridComm
+  * 2021: IEEE INFOCOM, IEEE MobiSec Workshop, IEEE CNS
+  * 2020: IEEE Globecom, IEEE CNS
+  * 2019: IEEE INFOCOM, IEEE ICC
+
+* **Journal Reviewer**
+  * IEEE Transactions on Dependable and Secure Computing
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Smart Grid
+  * IEEE Transactions on Mobile Computing
+  * Big Data Research
+  * PeerJ Computer Science
+  * Computers & Security
+

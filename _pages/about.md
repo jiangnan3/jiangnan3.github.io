@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiangnan Li is a Security Researcher at [Palo Alto Networks Inc.](https://www.paloaltonetworks.com/), working on the Next Generation Firewall (NGFW) products. He received his Ph.D. degree in Computer Engineering from the University of Tennessee, under the supervision of [Dr. Stella Sun](https://web.eecs.utk.edu/~jysun/) in 2021. Previously, he obtained his B.E. degree in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2016. He also worked as a Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) during summer 2019.
+Jiangnan Li is a Security Researcher at [Palo Alto Networks Inc.](https://www.paloaltonetworks.com/), working on the Next Generation Firewall (NGFW) products. He received his Ph.D. degree in Computer Engineering from the [University of Tennessee](https://www.utk.edu/), under the supervision of [Dr. Stella Sun](https://web.eecs.utk.edu/~jysun/) in 2021. Previously, he obtained his B.E. degree in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2016. He also worked as a Research Intern at [VeriSign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) during summer 2019.
 
 Research Interests
 ======
