@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ======
-* Aug 2016 - May 2021, Ph.D. in Computer Engineering, University of Tennessee, Knoxville
+* Aug 2016 - May 2021, Ph.D. in Computer Engineering, [University of Tennessee, Knoxville](https://www.utk.edu/)
   * Supervisor: [Prof. Stella Sun](https://web.eecs.utk.edu/~jysun/)
-* Sep 2012 - Jul 2016, B.S. in Communication Engineering, University of Electronic Science and Technology of China (UESTC)
+* Sep 2012 - Jul 2016, B.S. in Communication Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
 
 
 Experience
