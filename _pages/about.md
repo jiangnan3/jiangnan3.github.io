@@ -19,6 +19,7 @@ Research Interests
 
 News
 ======
+- [Aug 2024] Our Paper "LightSentinel: A Lightweight Anomaly Detection System Leveraging Smart Devices" is accepted by [IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/).
 - [Jun 2024] I will join the TPC of [IEEE SmartGridComm 2024](https://sgc2024.ieee-smartgridcomm.org/).
 - [Jun 2024] I will join the TPC of [IEEE ICCC 2024](https://iccc2024.ieee-iccc.org/).
 - [Jan 2024] I will join the TPC of [IEEE ICC 2024](https://icc2024.ieee-icc.org/).
