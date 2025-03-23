@@ -28,12 +28,14 @@ Experience
 Service
 ======
 * **TPC Member**
+  * 2025: IEEE ICC
   * 2024: IEEE SmartGridComm, IEEE ICCC, IEEE ICC
   * 2023: IEEE ICC
   * 2022: IEEE ICC, IEEE SmartGridComm 
   * 2021: INFOCOM MobiSec
 
 * **Conference Reviewer**
+  * 2025: IEEE ICC
   * 2024: IEEE SmartGridComm, IEEE ICCC, IEEE ICC
   * 2023: IEEE ICC
   * 2022: IEEE INFOCOM, IEEE SmartGridComm

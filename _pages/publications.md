@@ -6,13 +6,26 @@ author_profile: true
 ---
 
 ## Technical Blogs
+
+### <span style="color:#229ad5">Managing DeepSeek Traffic with Palo Alto Networks App-IDs</span>
+<b>Jiangnan Li</b>, Rakshith Shetty, Amy Fang
+
+[Palo Alto Networks LIVECommunity Blog](https://live.paloaltonetworks.com/t5/community-blogs/managing-deepseek-traffic-with-palo-alto-networks-app-ids/ba-p/1224265) 
+
+
 ### <span style="color:#229ad5">Securing and Managing ChatGPT Traffic with Palo Alto Networks App-ID</span>
-<b>Jiangnan Li</b>, Cecilia Hu, Qi Deng
+Cecilia Hu, <b>Jiangnan Li</b>, Qi Deng
 
 [Palo Alto Networks Blogs](https://www.paloaltonetworks.com/blog/2023/05/securing-and-managing-chatgpt-traffic/) 
 
 
 ## Conference Papers
+
+### <span style="color:#229ad5">LightSentinel: A Lightweight Anomaly Detection System Leveraging Smart Devices</span>
+Yingyuan Yang, Xueli Huang, Sunshin Lee, <b>Jiangnan Li</b>
+
+[IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10900940)
+
 ### <span style="color:#229ad5">Towards Adversarial-Resilient Deep Neural Networks for False Data Injection Detection in Power Grids</span>
 <b>Jiangnan Li</b>, Yingyuan Yang, Jinyuan Stella Sun, Kevin Tomsovic, Hairong Qi
 
