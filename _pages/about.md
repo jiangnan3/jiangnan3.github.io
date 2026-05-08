@@ -19,6 +19,10 @@ Research Interests
 
 News
 ======
+- [Mar 2026] Our paper ["UserIA: User-Centered Implicit Authentication Leveraging Operant Conditioning"](https://ieeexplore.ieee.org/abstract/document/11455238) is published on IEEE TDSC.
+- [Oct 2025] I will join the TPC of [IEEE ICC 2026](https://icc2026.ieee-icc.org/).
+- [Jun 2025] I will join the TPC of [IEEE SmartGridComm 2025](https://sgc2025.ieee-smartgridcomm.org/).
+- [Apr 2025] The industry white paper ["The State of Generative AI in 2025"](https://www.paloaltonetworks.com/resources/research/state-of-genai-2025) is published by Palo Alto Networks.
 - [Oct 2024] I will join the TPC of [IEEE ICC 2025](https://icc2025.ieee-icc.org/).
 - [Aug 2024] Our Paper "LightSentinel: A Lightweight Anomaly Detection System Leveraging Smart Devices" is accepted by [IEEE Globecom 2024](https://globecom2024.ieee-globecom.org/).
 - [Jun 2024] I will join the TPC of [IEEE SmartGridComm 2024](https://sgc2024.ieee-smartgridcomm.org/).

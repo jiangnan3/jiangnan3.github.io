@@ -19,6 +19,16 @@ Cecilia Hu, <b>Jiangnan Li</b>, Qi Deng
 [Palo Alto Networks Blogs](https://www.paloaltonetworks.com/blog/2023/05/securing-and-managing-chatgpt-traffic/) 
 
 
+## Industry White Papers
+
+### [1] <span style="color:#229ad5">The State of Generative AI in 2025</span>
+Charles Choe, Gurpreet Kaur Khalsa, <b>Jiangnan Li</b>, Yongzhe Huang
+
+[Palo Alto Networks](https://www.paloaltonetworks.com/resources/research/state-of-genai-2025) [[PDF]](https://www.cvisionintl.com/media/t4ad1s5u/state-of-genai-2025.pdf) · Reported by 50+ media outlets
+
+Selected media coverage: [KBI Media](https://kbi.media/press-release/palo-alto-networks-state-of-generative-ai-report-finds-890-surge-in-generative-ai-traffic-raising-new-security-challenges-for-asia-pacific-and-japan-enterprises/) · [Calcalist Tech](https://www.calcalistech.com/ctechnews/article/la3xkb6ul) · [FutureCIO](https://futurecio.tech/study-finds-890-surge-in-genai-traffic-across-apj/) · [Campaign Asia](https://www.campaignasia.com/article/when-ai-borrows-public-figures-faces-creative-experiment-or-manipulation/4yekkpsne52bb7k6rv29fm9352) · [Awesome Agents AI](https://awesomeagents.ai/news/ai-traffic-890-percent-ec-council-certifications/) · [Vectra AI](https://www.vectra.ai/topics/genai-security) · [Pharm Exec](https://www.pharmexec.com/view/navigating-uncertainty-ai-building-trust-way-forward) · [Cyber Daily](https://www.cyberdaily.au/digital-transformation/12280-use-of-generative-ai-surged-by-890-in-2024?trk=article-ssr-frontend-pulse_little-text-block) · [Intelligent CIO APAC](https://www.intelligentcio.com/apac/2025/06/27/unsanctioned-usage-emerging-threats-and-a-lack-of-governance-rapidly-expand-apac-attack-surface/) · [Security Boulevard](https://securityboulevard.com/2025/07/shadow-ai-is-exploding-governance-needs-to-catch-up/) · [CIO & Leader](https://www.cioandleader.com/gen-ai/) · [The Brew News](https://thebrewnews.com/thebrew-news/ai-traffic-up-890-data-loss-incidents-surge-2-5x-report-finds/)
+
+
 ## Conference Papers
 
 ### [6] <span style="color:#229ad5">LightSentinel: A Lightweight Anomaly Detection System Leveraging Smart Devices</span>
@@ -56,6 +66,11 @@ Xiangyu Niu, <b>Jiangnan Li</b>, Jinyuan Stella Sun, Kevin Tomsovic
 
 
 ## Journal Papers
+### [3] <span style="color:#229ad5">UserIA: User-Centered Implicit Authentication Leveraging Operant Conditioning</span>
+Yingyuan Yang, Xueli Huang, Farhin Farhad Riya, <b>Jiangnan Li</b>, Jinyuan Stella Sun
+
+[IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11455238)
+
 ### [2] <span style="color:#229ad5">EchoIA: Implicit Authentication System Based on User Feedback</span>
 Yingyuan Yang, Xueli Huang, <b>Jiangnan Li</b>, Jinyuan Stella Sun
 
