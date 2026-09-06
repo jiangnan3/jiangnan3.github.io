@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+## Patents
+
+### [1] <span style="color:#229ad5">Application Context via Endpoint-Aware Traffic for Enhanced Security</span>
+Rui Zhong, <b>Jiangnan Li</b>, Amy Lee
+
+U.S. Patent Application Publication **US 20260081893 A1** · Published March 19, 2026<br>
+Applicant: Palo Alto Networks, Inc. · Application No. 18/884844 · Filed September 13, 2024
+
+
 ## Industry White Papers
 
 ### [1] <span style="color:#229ad5">The State of Generative AI in 2025</span>
