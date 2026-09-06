@@ -11,8 +11,9 @@ author_profile: true
 ### [1] <span style="color:#229ad5">Application Context via Endpoint-Aware Traffic for Enhanced Security</span>
 Rui Zhong, <b>Jiangnan Li</b>, Amy Lee
 
-U.S. Patent Application Publication **US 20260081893 A1** · Published March 19, 2026<br>
-Applicant: Palo Alto Networks, Inc. · Application No. 18/884844 · Filed September 13, 2024
+U.S. Patent **US 12,701,103 B2** · Granted August 4, 2026<br>
+Assignee: Palo Alto Networks, Inc. · Application No. 18/884844 · Filed September 13, 2024<br>
+Prior publication: US 20260081893 A1 · Published March 19, 2026
 
 
 ## Industry White Papers

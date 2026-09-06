@@ -19,7 +19,7 @@ Research Interests
 
 News
 ======
-- [Mar 2026] Our U.S. patent application, ["Application Context via Endpoint-Aware Traffic for Enhanced Security"](/publications/#patents), was published on March 19, 2026 (US 20260081893 A1).
+- [Aug 2026] Our U.S. patent, ["Application Context via Endpoint-Aware Traffic for Enhanced Security"](/publications/#patents), was granted on August 4, 2026 (US 12,701,103 B2).
 - [Mar 2026] Our paper ["UserIA: User-Centered Implicit Authentication Leveraging Operant Conditioning"](https://ieeexplore.ieee.org/abstract/document/11455238) is published on IEEE TDSC.
 - [Oct 2025] I will join the TPC of [IEEE ICC 2026](https://icc2026.ieee-icc.org/).
 - [Jun 2025] I will join the TPC of [IEEE SmartGridComm 2025](https://sgc2025.ieee-smartgridcomm.org/).
@@ -37,5 +37,4 @@ News
 - [Dec 2021] I will join the TPC of [IEEE ICC 2022](https://icc2022.ieee-icc.org/index.html).
 - [Aug 2021] I joined [Palo Alto Networks Inc.](https://www.paloaltonetworks.com/) as a Security Researcher.
 - [Apr 2021] I defended my Ph.D. dissertation successfully.
-
 
